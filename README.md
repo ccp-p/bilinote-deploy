@@ -1,6 +1,6 @@
 # BiliNote Deploy
 
-这是 [BiliNote](https://github.com/你的项目链接) 的官方 Docker 部署仓库。  
+这是 [BiliNote](https://github.com/JefferyHcool/BiliNote) 的官方 Docker 部署仓库。  
 只需几条命令，即可拉取后端、前端、Nginx 三个镜像并完成部署，快速运行 BiliNote！
 
 
