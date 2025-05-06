@@ -10,7 +10,7 @@
 ### 1. 克隆部署仓库
 
 ```bash
-git clone https://github.com/jefferyhjw/bilinote-deploy.git
+git clone https://github.com/JefferyHcool/bilinote-deploy
 cd bilinote-deploy
 ```
 ### 2. 创建 .env 文件
